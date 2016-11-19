@@ -3,3 +3,4 @@ print('hello git')
 # stage commits?
 # from kdevelop
 # git commit, then push
+# just commit
